@@ -1,0 +1,651 @@
+Apr 27 13:15 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:15 : update: added /Matt Lange - Rift (Andrew Bayer Remix).mp3
+Apr 27 13:17 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:17 : client: [0] opened from 127.0.0.1:57409
+Apr 27 13:17 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 13:17 : client: [1] opened from 127.0.0.1:57411
+Apr 27 13:17 : client: [1] closed
+Apr 27 13:19 : player: played "Matt Lange - Rift (Andrew Bayer Remix).mp3"
+Apr 27 13:19 : client: [0] closed
+Apr 27 13:20 : client: [2] opened from 127.0.0.1:57463
+Apr 27 13:20 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 13:20 : player: played "Matt Lange - Rift (Andrew Bayer Remix).mp3"
+Apr 27 13:20 : client: [2] closed
+Apr 27 13:22 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:22 : client: [0] opened from 127.0.0.1:57476
+Apr 27 13:23 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 13:23 : client: [0] closed
+Apr 27 13:23 : client: [1] opened from 127.0.0.1:57488
+Apr 27 13:23 : client: [2] opened from 127.0.0.1:57490
+Apr 27 13:23 : client: [2] closed
+Apr 27 13:23 : client: [1] closed
+Apr 27 13:23 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:23 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 13:23 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 13:24 : client: [0] opened from 127.0.0.1:57495
+Apr 27 13:24 : client: [1] opened from 127.0.0.1:57497
+Apr 27 13:24 : client: [1] closed
+Apr 27 13:24 : player: played "Matt Lange - Rift (Andrew Bayer Remix).mp3"
+Apr 27 13:24 : client: [0] closed
+Apr 27 13:27 : client: [2] opened from 127.0.0.1:57519
+Apr 27 13:28 : client: [2] closed
+Apr 27 13:31 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:31 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 13:31 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 13:32 : client: [0] opened from 127.0.0.1:57550
+Apr 27 13:32 : exception: Failed to decode /Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3
+Apr 27 13:32 : exception: nested: Failed to open '/Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3': No such file or directory
+Apr 27 13:32 : player: played "Matt Lange - Rift (Andrew Bayer Remix).mp3"
+Apr 27 13:32 : exception: Failed to decode /Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3
+Apr 27 13:32 : exception: nested: Failed to open '/Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3': No such file or directory
+Apr 27 13:32 : player: played "Matt Lange - Rift (Andrew Bayer Remix).mp3"
+Apr 27 13:32 : exception: Failed to decode /Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3
+Apr 27 13:32 : exception: nested: Failed to open '/Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3': No such file or directory
+Apr 27 13:32 : player: played "Matt Lange - Rift (Andrew Bayer Remix).mp3"
+Apr 27 13:32 : exception: Failed to decode /Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3
+Apr 27 13:32 : exception: nested: Failed to open '/Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3': No such file or directory
+Apr 27 13:32 : player: played "Matt Lange - Rift (Andrew Bayer Remix).mp3"
+Apr 27 13:32 : client: [0] closed
+Apr 27 13:32 : client: [1] opened from 127.0.0.1:57552
+Apr 27 13:32 : client: [1] closed
+Apr 27 13:33 : client: [2] opened from 127.0.0.1:57561
+Apr 27 13:33 : client: [2] closed
+Apr 27 13:34 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:34 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 13:34 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 13:34 : client: [0] opened from 127.0.0.1:57573
+Apr 27 13:34 : client: [0] closed
+Apr 27 13:34 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:34 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 13:34 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 13:35 : client: [0] opened from 127.0.0.1:57576
+Apr 27 13:35 : client: [0] closed
+Apr 27 13:36 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:36 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 13:36 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 13:37 : client: [0] opened from 127.0.0.1:57583
+Apr 27 13:37 : client: [0] closed
+Apr 27 13:37 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:37 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 13:37 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 13:38 : client: [0] opened from 127.0.0.1:57605
+Apr 27 13:39 : client: [0] closed
+Apr 27 13:39 : client: [1] opened from 127.0.0.1:57609
+Apr 27 13:40 : client: [1] closed
+Apr 27 13:40 : client: [2] opened from 127.0.0.1:57615
+Apr 27 13:40 : exception: Failed to decode /Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3
+Apr 27 13:40 : exception: nested: Failed to open '/Users/donk3y/Music/Matt Lange - Rift (Andrew Bayer Remix).mp3': No such file or directory
+Apr 27 13:40 : player: played "Matt Lange - Rift (Andrew Bayer Remix).mp3"
+Apr 27 13:42 : client: [2] closed
+Apr 27 13:43 : client: [3] opened from 127.0.0.1:57624
+Apr 27 13:48 : client: [3] closed
+Apr 27 13:48 : client: [4] opened from 127.0.0.1:57663
+Apr 27 13:53 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:53 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 13:53 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 13:53 : client: [4] closed
+Apr 27 13:54 : client: [0] opened from 127.0.0.1:57691
+Apr 27 13:55 : client: [0] closed
+Apr 27 13:57 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 13:57 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 13:57 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 13:57 : client: [0] opened from 127.0.0.1:57706
+Apr 27 13:57 : client: [0] closed
+Apr 27 13:57 : update: removing Matt Lange - Rift (Andrew Bayer Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions & MitiS/Unknown Album/Break The Silence (Feat. RBBTS).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Matt Lange/Unknown Album/Rift (Andrew Bayer Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/The Throes of Winter EP/02 The End (feat. HALIENE).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/The Throes of Winter EP/03 Lose Myself (feat. Lynn Gunn).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/The Throes of Winter EP/06 Outro (Cold Without You).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/The Throes of Winter EP/01 Intro (The Throes of Winter).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/The Throes of Winter EP/05 A Way To Say Goodbye (feat. Sombear).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/The Throes of Winter EP/04 December (feat. Davey Havok).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Unknown Album/Senseless (feat. Tyler Graves).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Unknown Album/Ocean (Feat. Jonathan Mendelsohn).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Unknown Album/Whats Done is Done (ft. HALIENE).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Unknown Album/Start Again (feat. Fiora).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Unknown Album/Lose Myself ft. Lynn Gunn.m4a
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Single/25 Deep Divide.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Single/27 Serpent Of Old.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Single/23 Fevers.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions EP/02 The Truth.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions EP/03 Fractals.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions EP/01 Days to Come (feat. Fiora).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions EP/04 She Was (feat. Birds of Paradise).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/22 All Alone (Seven Lions Remix).m4a
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/12 Cosmic Love (Seven Lions Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/13 Running To The Sea (Seven Lions Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/19 The Great Divide (Seven Lions Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/17 On My Way To Heaven (Seven Lions Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/15 Days Turn Into Nights (Seven Lions Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/18 Still With Me (Seven Lions Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/21 You Got To Go (Seven Lions Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/20 Satellite (Seven Lions Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/14 All I Know (Seven Lions Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Worlds Apart  EP/01 Don't Leave (feat. Ellie Goulding).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Worlds Apart  EP/04 Strangers (feat. Myon and Shane 54 & Tove Lo).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Worlds Apart  EP/03 Nepenthe.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Worlds Apart  EP/05 Keep It Close (feat. Kerli).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Seven Lions/Worlds Apart  EP/02 Worlds Apart (feat. Kerli).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Alpha 9/Come Home/01 Come Home (Original Mix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Alpha 9/Come Home/02 Come Home (Audien Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Avicii/Levels (Remixes) - EP/02 Levels (Skrillex Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Avicii/True/02 You Make Me.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Voyager.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Visualizer.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Ayodele.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/www.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Anthony.m4a
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Miami 82 (David Gericke Remix).mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Leave the Party (David Gericke Remix).mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Let It All Out (David Gericke Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Cheese.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/PS.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Monitor.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/fml 2.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/KUF.m4a
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Slow Down - Fdorian 128bpm.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Psychedelic Experiance.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/I Was a Fool (David Gericke Remix).mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Donuts.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Pseudonym.m4a
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Maddy.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Back Home V2.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Salect.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Sunday 1 Edit.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Golden (David Gericke Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Zedd ft Selena Gomez - I Want You To Know (David Gericke Remix).m4a
+Apr 27 13:57 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Loat.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Newyork - Newport.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/David Gericke/Unknown Album/Silent E.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Jan Martin & Mango - Pillows (Stendahl Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Jome - Cinnamon (Hybrid Minds Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Susie Suh x Robot Koch - Here With Me (Bearson Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Volere - The Seafarer.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/01 Kelvin Jones - Call You Home (D.O.C.S. Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Deadmau5 - 4ware (Unreleased Version).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Vitodito - Cosmic.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Dabin - Bloom (feat. Dia Frampton).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Lane 8 - Dont Let Me Go (feat. Arctic Lake).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Ficci - Flutter (feat. Laura Hahn).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Tedy - Lost & Found.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Douran - Phenomena.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Dahlia Sleeps - Storm.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/TRINIX - Find Me.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Shallou - Count On (feat. Colin).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Gorillaz - Melancholy Hill (Feed Me Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Axxound - Holding Hands (Bee Hunter Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Alex H - South Pier.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Emmit Fenn - I Cant Believe I Had You.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EMBRZ - Letting Go.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Syence - Temporary High (feat. Heather Sommer).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/deadmau5 - Hit Save.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Sad Alex - Almost.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Said The Sky - Never Gone (feat. Kerli).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Alex H - Sekonda.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/MitiS & SubLion - Beneath Us.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Feed Me - Defiant (feat. Lindsay).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/AVAION - Pieces.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Vintage & Morelli fet. arielle marena - Breathe.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Anson Seabra - Last Time.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Essenger - Quivira.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Rod Veldt - Amicitia.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Mark & Lukas - Colours Of Life.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Tristam - Bone Dry.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Dabin - In Flames (feat. Lexi Norton).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Lumidelic - Wonderland.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Unlike Pluto - Life in A Hole.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/deadmau5 - 4ware.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Jason Ross - Someone That I Needed (feat. Dia Frampton).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Jonas Mantey - Frei.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Aaron Static - Tipping Point.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Dabin - Youth (feat. Yoe Mase).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EDEN - crash.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Kasbo - Over You (feat. Frida Sundemo).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Illenium - With You (Crystal Skies Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Gavin Haley - Show Me.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Shallou - You And Me.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/ALPHA 9 - Higher Place (Extended Mix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EMBRZ - Make Your Way.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Illenium x Said The Sky - Whered U Go.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/TRINIX - Midnight.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Lokovski & David Folkebrant - No Pressure (Zuubi Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Fables (Original Mix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Lane 8 - Road (feat. Arctic Lake).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Yoe Mase & ILYA - Need Your Love.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Módl - Clementine.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Eleve - Let's Go Inside.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Lane 8 - No End In Sight _ Outro.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Flux Pavilion - Somebody Else (feat. GLNNA).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Stonefox - Time.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Fill in the blank Music sounds better with _____.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Kidswaste - Sleeping Pill (feat. KOLE).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EDEN - Gravity.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Dawn & Prax - Anything.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Jan Martin & Mango - Pillows.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Koste - Dreaming (feat. flowerkid).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Lumidelic - Through The Door.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Susie Suh x Robot Koch - Here With Me.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Hazey Eyes - Emotion (feat. Panama).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Anson Seabra - Robin Hood (Sarcastic Sounds Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Kerli - One.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EMBRZ - Be Mine.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Flume - Say It feat. Tove Lo (Illenium Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Winterya - Petrichor.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Illenium - Fractures (feat. Nevve).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Dimension - Generator.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Les Gordon - Morning.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Felguk/All Night Long EP/01 All Night Long.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Colleen D'Agostino/Collide - EP/01 Stay (Radio Edit).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Colleen D'Agostino/Collide - EP/06 Stay (Drop The Poptart Edit).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Compilations/May 2007/Contact.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Arty & Misha Kitone/Inside Of Me__Flip Flop-(ONRS005)-WEB/01 Inside Of Me (Original Mix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Arty & Mat Zo/A State Of Trance Future Favorite Best Of 2011/01 Rebound (Omnia Remix Edit).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Arty & Mat Zo/Rebound/01 Rebound.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/BT/Unknown Album/Skylarking.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Skrillex/Unknown Album/Birdy Nam Nam - Goin' In.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Skrillex/Bangarang/03 Breakn' a Sweat.m4a
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Rudimental feat. Emeli Sande/Home/Free.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Andrew Bayer/Unknown Album/Celestial.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Andrew Bayer/Unknown Album/Counting the Points (Original Mix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Andrew Bayer/Unknown Album/Tidal Wave (feat. Alison May).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5 & Armin Van Buuren/Unknown Album/Ariel.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Feed Me/Unknown Album/Spilt Milk.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Feed Me/Feed Me's Escape From Electric Mountain/03 One Click Headshot.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Feed Me/Meowingtons Hax Tour Trax/02 Cott's Face (Original Mix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Unknown Album/Get your Wish.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/05 Fresh Static Snow.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/04 Flicker.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/03 Year of War.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/11 Fellow Feeling.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/02 Sad Machine.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/12 Goodbye To a World.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/07 Hear the Bells (feat. Imaginary Cities).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/10 Sea of Voices.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/06 Polygon Dust (feat. Lemaitre).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/09 Lionhearted (feat. Urban Cone).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Porter Robinson/Worlds/01 Divinity (feat. Amy Millan).m4a
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Arty vs 4 Strings/Unknown Album/Tinctures Away (Arty Mashup) (D#).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Shockline/Unknown Album/Scy.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Shockline/Unknown Album/Alive.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Shockline/Unknown Album/Spring Break.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/Darren Tate vs. Jono Grant/Let The Light Shine In 2010/04 Let The Light Shine In 2010 (Arty Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Unknown Album/Polaris.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Unknown Album/Coasted 1.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Unknown Album/Ariel ft. Armin Van Buuren.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Unknown Album/Drama Free (feat. Lights).mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Unknown Album/ARCADIA.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/At Play/01 Vanishing Point.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/At Play/06 Turning Point.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/At Play/04 Faxing Berlin.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/It Sounds Like/13 Jaded (Original Mix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/It Sounds Like/02 Arguru (EDXs 5un5hine Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Mixed/Ghosts N Stuff (Original Mix).m4a
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Mixed/Energy 52 - Cafe del Mar (Deadmau5 Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Mixed/Finished Symphony.mp3
+Apr 27 13:57 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Mixed/Brazil.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Mixed/01 The Reward Is Cheese.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Mixed/God is a DJ (Deadmau5 Remix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Mixed/02 Arguru (Original Mix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/Mixed/01 Not Exactly (Original Mix).mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/We Are Friends Vol.02/Suckfest9001.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/We Are Friends Vol.02/07. In Transit (James Njie).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/5 years of mau5/2-03 The Veldt (deadmau5 Vs. Eric Prydz Edit) [feat. Chris James].m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/For Lack Of A Better Name (The Extended Mixes)/02 Moar Ghosts 'n' Stuff.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/For Lack Of A Better Name (The Extended Mixes)/03 Ghosts 'n' Stuff (feat. Rob Swire).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/4x4=12 (Deluxe Version)/06 I Said (Michael Woods Remix).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/4x4=12 (Deluxe Version)/04 Bad Selection.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/4x4=12 (Deluxe Version)/01 Some Chords.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/4x4=12 (Deluxe Version)/02 Sofi Needs a Ladder.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/4x4=12 (Deluxe Version)/09 Raise Your Weapon.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-04 Fn Pig.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-09 Closer.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-05 Professional Griefers (feat. Gerard Way).m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-13 Telemiscommunications.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-03 The Veldt (8 Minute Edit) [feat. Chris James].m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-01 Superliminal.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-06 Maths.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-11 Sleepless.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-07 There Might Be Coffee.m4a
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-10 October.mp3
+Apr 27 13:57 : update: added iTunes/iTunes Media/Music/deadmau5/For Lack of a Better Name/10 Strobe.mp3
+Apr 27 13:57 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: ignoring 'frma' atom of 'mp4a', stream format is 'drms'
+Apr 27 13:57 : update: added iTunes/iTunes Media/Downloads-Music/She Was (feat. Birds of Paradise) _ Seven Lions EP _ Seven Lions.tmp/download.m4a
+Apr 27 13:58 : client: [1] opened from 127.0.0.1:57708
+Apr 27 14:16 : client: [2] opened from 127.0.0.1:57829
+Apr 27 14:16 : client: [2] closed
+Apr 27 14:16 : update: added iTunes/iTunes Media/Music/EDEN/Unknown Album/Gravity.m4a
+Apr 27 14:16 : update: added iTunes/iTunes Media/Music/EDEN/Unknown Album/Crash.mp3
+Apr 27 14:16 : update: added iTunes/iTunes Media/Music/EMBRZ/Unknown Album/Be Mine.m4a
+Apr 27 14:16 : update: added iTunes/iTunes Media/Music/EMBRZ/Unknown Album/Letting Go.m4a
+Apr 27 14:16 : update: added iTunes/iTunes Media/Music/EMBRZ/Unknown Album/Make Your Way.mp3
+Apr 27 14:16 : update: removing iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EDEN - Gravity.m4a
+Apr 27 14:16 : update: removing iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EDEN - crash.mp3
+Apr 27 14:16 : update: removing iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EMBRZ - Letting Go.m4a
+Apr 27 14:16 : update: removing iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EMBRZ - Be Mine.m4a
+Apr 27 14:16 : update: removing iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/EMBRZ - Make Your Way.mp3
+Apr 27 14:18 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 14:18 : client: [3] opened from 127.0.0.1:57834
+Apr 27 14:18 : client: [3] closed
+Apr 27 14:24 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Apr 27 14:24 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 14:24 : player: played "iTunes/iTunes Media/Music/deadmau5/Mixed/Finished Symphony.mp3"
+Apr 27 14:24 : client: [4] opened from 127.0.0.1:57860
+Apr 27 14:24 : client: [4] closed
+Apr 27 14:28 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 14:28 : player: played "iTunes/iTunes Media/Music/EMBRZ/Unknown Album/Letting Go.m4a"
+Apr 27 14:28 : client: [5] opened from 127.0.0.1:57881
+Apr 27 14:28 : client: [5] closed
+Apr 27 14:30 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:31 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:31 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:31 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:31 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:32 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:32 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 14:32 : client: [6] opened from 127.0.0.1:57905
+Apr 27 14:32 : client: [6] closed
+Apr 27 14:36 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Apr 27 14:36 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 14:36 : player: played "iTunes/iTunes Media/Music/David Gericke/Unknown Album/Voyager.mp3"
+Apr 27 14:36 : client: [7] opened from 127.0.0.1:57923
+Apr 27 14:36 : client: [7] closed
+Apr 27 14:37 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 14:37 : client: [8] opened from 127.0.0.1:57927
+Apr 27 14:37 : client: [8] closed
+Apr 27 14:37 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 14:37 : client: [9] opened from 127.0.0.1:57929
+Apr 27 14:37 : client: [9] closed
+Apr 27 14:40 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 14:41 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:41 : player: played "iTunes/iTunes Media/Music/Porter Robinson/Worlds/03 Year of War.m4a"
+Apr 27 14:41 : client: [10] opened from 127.0.0.1:57972
+Apr 27 14:41 : client: [10] closed
+Apr 27 14:41 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:41 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:41 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:41 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:41 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:41 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:42 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:42 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:42 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:42 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:42 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:42 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:42 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:42 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:43 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:43 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:43 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:43 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:43 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Apr 27 14:44 : ffmpeg/mp3float: overread, skip -5 enddists: -4 -4
+Apr 27 14:45 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 14:45 : player: played "iTunes/iTunes Media/Music/David Gericke/Unknown Album/Salect.mp3"
+Apr 27 14:45 : client: [11] opened from 127.0.0.1:58008
+Apr 27 14:45 : client: [11] closed
+Apr 27 14:45 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 14:45 : client: [12] opened from 127.0.0.1:58019
+Apr 27 14:45 : client: [12] closed
+Apr 27 14:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 14:50 : player: played "iTunes/iTunes Media/Music/Seven Lions/The Throes of Winter EP/03 Lose Myself (feat. Lynn Gunn).m4a"
+Apr 27 14:50 : client: [13] opened from 127.0.0.1:58087
+Apr 27 14:50 : client: [13] closed
+Apr 27 14:50 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 14:50 : client: [14] opened from 127.0.0.1:58092
+Apr 27 14:50 : client: [14] closed
+Apr 27 14:54 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 14:54 : player: played "iTunes/iTunes Media/Music/Skrillex/Unknown Album/Birdy Nam Nam - Goin' In.mp3"
+Apr 27 14:54 : client: [15] opened from 127.0.0.1:58141
+Apr 27 14:54 : client: [15] closed
+Apr 27 14:58 : client: [1] closed
+Apr 27 14:58 : client: [16] opened from 127.0.0.1:58200
+Apr 27 14:58 : client: [17] opened from 127.0.0.1:58202
+Apr 27 14:58 : client: [17] closed
+Apr 27 14:59 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 14:59 : player: played "iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/21 You Got To Go (Seven Lions Remix).m4a"
+Apr 27 14:59 : client: [18] opened from 127.0.0.1:58205
+Apr 27 14:59 : client: [18] closed
+Apr 27 14:59 : client: [16] closed
+Apr 27 14:59 : client: [19] opened from 127.0.0.1:58208
+Apr 27 14:59 : client: [20] opened from 127.0.0.1:58210
+Apr 27 14:59 : client: [20] closed
+Apr 27 15:00 : client: [19] closed
+Apr 27 15:01 : client: [21] opened from 127.0.0.1:58229
+Apr 27 15:01 : client: [22] opened from 127.0.0.1:58231
+Apr 27 15:01 : client: [22] closed
+Apr 27 15:01 : client: [21] closed
+Apr 27 15:01 : client: [23] opened from 127.0.0.1:58233
+Apr 27 15:01 : client: [24] opened from 127.0.0.1:58235
+Apr 27 15:01 : client: [24] closed
+Apr 27 15:02 : client: [23] closed
+Apr 27 15:03 : client: [25] opened from 127.0.0.1:58247
+Apr 27 15:03 : client: [26] opened from 127.0.0.1:58249
+Apr 27 15:03 : client: [26] closed
+Apr 27 15:04 : client: [25] closed
+Apr 27 15:04 : client: [27] opened from 127.0.0.1:58258
+Apr 27 15:04 : client: [28] opened from 127.0.0.1:58260
+Apr 27 15:04 : client: [28] closed
+Apr 27 15:05 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Apr 27 15:05 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:05 : client: [27] closed
+Apr 27 15:05 : player: played "iTunes/iTunes Media/Music/deadmau5/Mixed/01 The Reward Is Cheese.mp3"
+Apr 27 15:05 : client: [29] opened from 127.0.0.1:58265
+Apr 27 15:05 : client: [30] opened from 127.0.0.1:58267
+Apr 27 15:05 : client: [30] closed
+Apr 27 15:06 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:06 : client: [31] opened from 127.0.0.1:58271
+Apr 27 15:06 : client: [31] closed
+Apr 27 15:06 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:06 : client: [32] opened from 127.0.0.1:58274
+Apr 27 15:06 : client: [32] closed
+Apr 27 15:11 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:11 : player: played "iTunes/iTunes Media/Music/Feed Me/Unknown Album/Spilt Milk.m4a"
+Apr 27 15:11 : client: [33] opened from 127.0.0.1:58288
+Apr 27 15:11 : client: [33] closed
+Apr 27 15:11 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:11 : client: [34] opened from 127.0.0.1:58291
+Apr 27 15:11 : client: [34] closed
+Apr 27 15:11 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:11 : client: [35] opened from 127.0.0.1:58293
+Apr 27 15:11 : client: [35] closed
+Apr 27 15:12 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:12 : client: [36] opened from 127.0.0.1:58295
+Apr 27 15:12 : client: [36] closed
+Apr 27 15:20 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 15:20 : player: played "iTunes/iTunes Media/Music/Porter Robinson/Worlds/04 Flicker.m4a"
+Apr 27 15:20 : client: [37] opened from 127.0.0.1:58332
+Apr 27 15:20 : client: [37] closed
+Apr 27 15:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:27 : player: played "iTunes/iTunes Media/Music/David Gericke/Unknown Album/Slow Down - Fdorian 128bpm.mp3"
+Apr 27 15:27 : client: [38] opened from 127.0.0.1:58384
+Apr 27 15:27 : client: [38] closed
+Apr 27 15:30 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 15:31 : player: played "iTunes/iTunes Media/Music/Seven Lions/Seven Lions Remixes/14 All I Know (Seven Lions Remix).m4a"
+Apr 27 15:31 : client: [39] opened from 127.0.0.1:58426
+Apr 27 15:31 : client: [39] closed
+Apr 27 15:36 : client: [29] closed
+Apr 27 15:38 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Apr 27 15:38 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 15:38 : player: played "iTunes/iTunes Media/Music/deadmau5/_ album title goes here _/1-10 October.mp3"
+Apr 27 15:41 : player: played "iTunes/iTunes Media/Music/Darren Tate vs. Jono Grant/Let The Light Shine In 2010/04 Let The Light Shine In 2010 (Arty Remix).m4a"
+Apr 27 15:51 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 15:51 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 15:51 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 16:32 : client: [0] opened from 127.0.0.1:49736
+Apr 27 16:32 : client: [0] closed
+Apr 27 16:33 : client: [1] opened from 127.0.0.1:49739
+Apr 27 16:33 : client: [1] closed
+Apr 27 16:33 : client: [2] opened from 127.0.0.1:49742
+Apr 27 16:34 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 16:34 : client: [3] opened from 127.0.0.1:49745
+Apr 27 16:34 : client: [3] closed
+Apr 27 16:35 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 16:35 : client: [4] opened from 127.0.0.1:49750
+Apr 27 16:35 : client: [4] closed
+Apr 27 16:35 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 16:35 : client: [5] opened from 127.0.0.1:49752
+Apr 27 16:35 : client: [5] closed
+Apr 27 16:35 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 16:35 : client: [6] opened from 127.0.0.1:49754
+Apr 27 16:35 : client: [6] closed
+Apr 27 16:35 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 16:35 : client: [7] opened from 127.0.0.1:49756
+Apr 27 16:35 : client: [7] closed
+Apr 27 16:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 16:36 : client: [8] opened from 127.0.0.1:49760
+Apr 27 16:36 : client: [8] closed
+Apr 27 16:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 16:36 : client: [9] opened from 127.0.0.1:49762
+Apr 27 16:36 : client: [9] closed
+Apr 27 16:39 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Apr 27 16:39 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 16:40 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Stonefox - Time.mp3"
+Apr 27 16:40 : client: [10] opened from 127.0.0.1:49782
+Apr 27 16:40 : client: [10] closed
+Apr 27 16:46 : ffmpeg/mp3float: Could not update timestamps for discarded samples.
+Apr 27 16:46 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 16:46 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Susie Suh x Robot Koch - Here With Me (Bearson Remix).mp3"
+Apr 27 16:46 : client: [11] opened from 127.0.0.1:49816
+Apr 27 16:46 : client: [11] closed
+Apr 27 16:49 : client: [2] closed
+Apr 27 16:49 : client: [12] opened from 127.0.0.1:49884
+Apr 27 16:49 : client: [13] opened from 127.0.0.1:49885
+Apr 27 16:49 : client: [13] closed
+Apr 27 16:50 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 16:50 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Susie Suh x Robot Koch - Here With Me.m4a"
+Apr 27 16:50 : client: [14] opened from 127.0.0.1:49887
+Apr 27 16:50 : client: [14] closed
+Apr 27 16:53 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 16:53 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Syence - Temporary High (feat. Heather Sommer).m4a"
+Apr 27 16:53 : client: [15] opened from 127.0.0.1:49901
+Apr 27 16:53 : client: [15] closed
+Apr 27 16:55 : client: [12] closed
+Apr 27 16:57 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 16:57 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Tedy - Lost & Found.m4a"
+Apr 27 16:58 : client: [16] opened from 127.0.0.1:49950
+Apr 27 16:58 : client: [17] opened from 127.0.0.1:49951
+Apr 27 16:58 : client: [17] closed
+Apr 27 17:00 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 17:00 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/TRINIX - Find Me.m4a"
+Apr 27 17:00 : client: [18] opened from 127.0.0.1:49970
+Apr 27 17:00 : client: [18] closed
+Apr 27 17:03 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 17:03 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/TRINIX - Midnight.m4a"
+Apr 27 17:03 : client: [19] opened from 127.0.0.1:50001
+Apr 27 17:03 : client: [19] closed
+Apr 27 17:23 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 17:23 : client: [20] opened from 127.0.0.1:50129
+Apr 27 17:23 : client: [20] closed
+Apr 27 17:26 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 17:26 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/TRINIX - Find Me.m4a"
+Apr 27 17:26 : client: [21] opened from 127.0.0.1:50138
+Apr 27 17:26 : client: [21] closed
+Apr 27 17:31 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 17:31 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/TRINIX - Midnight.m4a"
+Apr 27 17:31 : client: [22] opened from 127.0.0.1:50158
+Apr 27 17:31 : client: [22] closed
+Apr 27 17:36 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 17:36 : player: played "iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Tristam - Bone Dry.m4a"
+Apr 27 17:36 : client: [23] opened from 127.0.0.1:50215
+Apr 27 17:36 : client: [23] closed
+Apr 27 17:45 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 17:45 : client: [24] opened from 127.0.0.1:50241
+Apr 27 17:45 : client: [24] closed
+Apr 27 17:46 : client: [16] closed
+Apr 27 17:47 : client: [25] opened from 127.0.0.1:50245
+Apr 27 17:47 : client: [26] opened from 127.0.0.1:50246
+Apr 27 17:47 : client: [26] closed
+Apr 27 17:49 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 17:49 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 17:49 : client: [27] opened from 127.0.0.1:50259
+Apr 27 17:49 : client: [27] closed
+Apr 27 17:52 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 17:52 : client: [25] closed
+Apr 27 17:52 : client: [28] opened from 127.0.0.1:50282
+Apr 27 17:52 : client: [29] opened from 127.0.0.1:50283
+Apr 27 17:52 : client: [29] closed
+Apr 27 17:55 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 17:56 : ffmpeg/mp3float: Could not update timestamps for skipped samples.
+Apr 27 18:18 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 18:18 : client: [30] opened from 127.0.0.1:50441
+Apr 27 18:18 : client: [30] closed
+Apr 27 18:18 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 18:18 : client: [31] opened from 127.0.0.1:50442
+Apr 27 18:18 : client: [31] closed
+Apr 27 18:20 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 18:20 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 18:21 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 18:21 : ffmpeg/mp3float: overread, skip -7 enddists: -6 -6
+Apr 27 18:21 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 18:22 : player: played "iTunes/iTunes Media/Music/David Gericke/Unknown Album/Leave the Party (David Gericke Remix).mp3"
+Apr 27 18:22 : client: [32] opened from 127.0.0.1:50452
+Apr 27 18:22 : client: [32] closed
+Apr 27 18:22 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 18:25 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 18:25 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 18:25 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 18:25 : player: played "iTunes/iTunes Media/Music/David Gericke/Unknown Album/Let It All Out (David Gericke Remix).mp3"
+Apr 27 18:25 : client: [33] opened from 127.0.0.1:50471
+Apr 27 18:25 : client: [33] closed
+Apr 27 18:26 : ffmpeg/mp3float: overread, skip -6 enddists: -4 -4
+Apr 27 18:26 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 18:28 : ffmpeg/mp3float: overread, skip -6 enddists: -5 -5
+Apr 27 18:29 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 18:29 : client: [28] closed
+Apr 27 18:29 : player: played "iTunes/iTunes Media/Music/David Gericke/Unknown Album/Loat.mp3"
+Apr 27 19:11 : config: inotify: auto_update was disabled. enable during compilation phase
+Apr 27 19:11 : config: option 'auto_resample' on line 33 was not recognized
+Apr 27 19:11 : config: option 'use_mmap' on line 34 was not recognized
+Apr 27 19:11 : ffmpeg/mp3float: overread, skip -5 enddists: -2 -2
+Apr 27 19:11 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 19:11 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 19:11 : player: played "iTunes/iTunes Media/Music/David Gericke/Unknown Album/Loat.mp3"
+Apr 27 19:12 : client: [0] opened from 127.0.0.1:49379
+Apr 27 19:12 : client: [1] opened from 127.0.0.1:49381
+Apr 27 19:12 : client: [1] closed
+Apr 27 19:12 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Apr 27 19:12 : client: [2] opened from 127.0.0.1:49385
+Apr 27 19:12 : client: [2] closed
+Apr 27 19:18 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Apr 27 19:18 : player: played "iTunes/iTunes Media/Music/Feed Me/Meowingtons Hax Tour Trax/02 Cott's Face (Original Mix).m4a"
+Apr 27 19:18 : client: [3] opened from 127.0.0.1:49414
+Apr 27 19:18 : client: [3] closed
