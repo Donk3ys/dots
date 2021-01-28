@@ -1,5 +1,7 @@
 export PATH="$PATH":"$HOME/.pub-cache/bin"
+export PATH="$PATH:$(go env GOPATH)/bin"
 export ZSH="/Users/donk3y/.oh-my-zsh"
+export ANDROID_HOME="/Users/donk3y/Library/Android/sdk" #cordova
 
 plugins=(
 #  dotenv
@@ -23,10 +25,14 @@ export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 export FZF_DEFAULT_COMMAND='fd --type f --hidden --follow --exclude .git'
 
 
+# kubectl
+autoload -Uz compinit
+compinit
+source <(kubectl completion zsh)
+
 
 ZSH_DISABLE_COMPFIX=true
 source $ZSH/oh-my-zsh.sh
-
 
 
 ##### Theme
@@ -38,14 +44,12 @@ source $HOME/.oh-my-zsh/custom/themes/gruvbox-material-dark.zsh-theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 #[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-#source /Users/donk3y/.zsh/plugins/zsh-autosuggestions
-#source /Users/donk3y/.zsh/plugins/zsh-syntax-highlighting
 
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=0'
 
 # Aliases
-alias nv="nvim"
-alias mplayer="ncmpcpp"
+alias vi="nvim"
+alias vim="nvim"
 alias l="ls -l"
 
 #### Speeds up paste time
