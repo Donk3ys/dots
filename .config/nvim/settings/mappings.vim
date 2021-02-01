@@ -1,5 +1,6 @@
-" COC explorer set Alt + , to toggle explorer window
-nmap ≤ :CocCommand explorer --preset .vim<CR>
+" SPACE set to leader
+nnoremap <SPACE> <Nop>
+let mapleader=" "
 
 
 " Use alt + hjkl to resize windows
@@ -14,11 +15,24 @@ nnoremap <TAB> <C-W>w
 " SHIFT-TAB will go between tab buffers
 nnoremap <S-TAB> :bnext<CR>
 
-" Alternate way to save
+"CTRL-s Alternate way to save
 nnoremap <C-s> :w<CR>
 
 
-" Better tabbing
+" SHIFT-< & SHIFT-> Better tabbing
 vnoremap < <gv
 vnoremap > >gv
 
+
+" FZF ctrl-t / v 
+"leader-// find lines in file
+nmap // :BLines!<CR>
+"leader-?? finds lines in project
+nmap ?? :Rg!<CR>
+"leader-p finds files in project
+nmap <leader>p :Files!<CR>
+
+"Git-History for file
+command! GitHistory execute ":BCommits!"
+
+nmap cc :Commands<CR>
