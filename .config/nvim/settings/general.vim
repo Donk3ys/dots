@@ -1,8 +1,3 @@
-" set leader key
-let g:mapleader = "\<Space>"
-
-
-
 " General Settings
 set number
 set nowrap              " Display long lines as just one line
