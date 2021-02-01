@@ -5,11 +5,28 @@
 
 call plug#begin("~/.config/nvim/plugged")
 
+"" Debugger
+""""" run Vimspector install --all
+Plug 'puremourning/vimspector'
+
+" File Finder
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
+
+" Func Def Finder
+Plug 'pechorin/any-jump.vim' "SPACE-j == search def
+Plug 'burntsushi/ripgrep'
+
+" General Coc
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'honza/vim-snippets'
+
+" Git
+Plug 'tpope/vim-fugitive'
+
+"" UI
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'dart-lang/dart-vim-plugin'
 
 call plug#end()
 
@@ -36,11 +53,20 @@ let g:coc_global_extensions = [
   \ 'coc-css',
   \ 'coc-json',
   \ 'coc-flutter',
+  \ 'coc-go',
+	\ 'coc-git',
   \ 'coc-highlight',
   \ 'coc-snippets',
-  \ 'coc-explorer',
+  \ 'coc-sql',
+  \ 'coc-yaml',
   \ ]
 
+
+" Jump_Any
+let g:any_jump_window_width_ratio  = 0.9
+
+" Vimspector key maps
+let g:vimspector_enable_mappings = 'HUMAN'
 
 " Import General Settings & Key Maps
 source $HOME/.config/nvim/settings/general.vim
@@ -61,4 +87,3 @@ let g:html_highlight_all = 1
 
 colorscheme gruvbox-material
 let g:airline_theme='transparent'
-
